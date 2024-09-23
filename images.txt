@@ -8,4 +8,5 @@ calico/kube-controllers
 
 calico/typha
 
-calico/node-driver-registrar
+docker.io/calico/node-driver-registrar:v3.28.2
+
