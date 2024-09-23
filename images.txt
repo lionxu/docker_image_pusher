@@ -10,3 +10,4 @@ calico/typha
 
 docker.io/calico/node-driver-registrar:v3.28.2
 
+docker.io/calico/pod2daemon-flexvol:v3.28.2
