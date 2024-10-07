@@ -15,3 +15,4 @@ docker.io/calico/pod2daemon-flexvol:v3.28.2
 docker.io/calico/cni:v3.28.2
 
 docker.io/calico/csi:v3.28.2
+nginx
